@@ -1,2 +1,2 @@
 # Resume
-The CUrriculum Vitae
+The Curriculum Vitae
